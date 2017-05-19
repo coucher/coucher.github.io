@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+
+<!-- generator="ScriptSocket - http://www.scriptsocket.com/sitemaps.php" -->
+<url>
+<loc>https://datcood.github.io/blogpage.html</loc>
+<lastmod>2017-05-18</lastmod>
+<changefreq>always</changefreq>
+<priority>0.7</priority>
+</url>
+
+<url>
+<loc>http://https://https://datcood.github.io/blogpage.html</loc>
+<lastmod>2017-05-18</lastmod>
+<changefreq>always</changefreq>
+<priority>0.7</priority>
+</url>
+
+</urlset>
